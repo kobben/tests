@@ -1,6 +1,5 @@
 {
-"type": "FeatureCollection",
-                                                                                
+"type": "FeatureCollection",                                                                      
 "features": [
 { "type": "Feature", "id": 0, "properties": { "ObjectID": 1, "Loc_name": "EU_Street_Addr.NLD_Streets", "Status": "M", "Score": 100, "Match_type": "A", "Side": "L", "X": 6.89649184507, "Y": 52.2133393449, "Match_addr": "Java Straat 6, Enschede, 7512", "Country": "NETHERLANDS", "Admin_Name": null, "ARC_Addres": "Javastraat 6", "ARC_City": "Enschede", "ARC_Postco": "7512ZJ", "ARC_Countr": "Netherlands", "Name": "Al-Ummah", "Type": "Islamitisch", "capacity": "174", "address": "Javastraat 6", "Postcode": "7512ZJ", "City": "Enschede", "Country_1": "Netherlands" }, "geometry": { "type": "Point", "coordinates": [ 6.896491845422759, 52.213339344776557 ] } }
 ,
@@ -129,6 +128,5 @@
 { "type": "Feature", "id": 62, "properties": { "ObjectID": 63, "Loc_name": "EU_Street_Name.NLD_StreetName", "Status": "M", "Score": 100, "Match_type": "A", "Side": null, "X": 6.87025509956, "Y": 52.193925064, "Match_addr": "Het Bijvank", "Country": "NETHERLANDS", "Admin_Name": null, "ARC_Addres": "Het Bijvank 107", "ARC_City": "Enschede", "ARC_Postco": "7544DA", "ARC_Countr": "Netherlands", "Name": "Windroos, De", "Type": "Katholiek", "capacity": "225", "address": "Het Bijvank 107", "Postcode": "7544DA", "City": "Enschede", "Country_1": "Netherlands" }, "geometry": { "type": "Point", "coordinates": [ 6.870255099183737, 52.193925064094458 ] } }
 ,
 { "type": "Feature", "id": 63, "properties": { "ObjectID": 64, "Loc_name": "EU_Street_Addr.NLD_Streets", "Status": "M", "Score": 100, "Match_type": "A", "Side": "R", "X": 6.92379856976, "Y": 52.216768096, "Match_addr": "Celsius Straat 10, Enschede, 7535", "Country": "NETHERLANDS", "Admin_Name": null, "ARC_Addres": "Celsiusstraat 10", "ARC_City": "Enschede", "ARC_Postco": "7535DK", "ARC_Countr": "Netherlands", "Name": "Wooldrik, Het OBS", "Type": "Openbaar", "capacity": "180", "address": "Celsiusstraat 10", "Postcode": "7535DK", "City": "Enschede", "Country_1": "Netherlands" }, "geometry": { "type": "Point", "coordinates": [ 6.923798569039434, 52.216768096348176 ] } }
-
 ]
 }
